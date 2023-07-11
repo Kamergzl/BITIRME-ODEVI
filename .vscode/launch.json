@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/asus/Documents/GitHub/BITIRME-ODEVI",
-      "program": "c:/Users/asus/Documents/GitHub/BITIRME-ODEVI/build/Debug/outDebug",
+      "cwd": "c:/Users/asus/Desktop/GitHub/BITIRME-ODEVI",
+      "program": "c:/Users/asus/Desktop/GitHub/BITIRME-ODEVI/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
